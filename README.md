@@ -33,3 +33,17 @@
 * Aplicația pornește în modul de dezvoltare
 * Comenzile de build generează versiunea de producție
 * Sunt descrise instrucțiuni de pornire în README.md
+
+# Demo day
+
+Aplicața completă - se livrează în ultimul seminariu (demo) cu o singura regulă:
+
+No slides, no bulls*it!
+
+Se vor demonstra:
+
+* funcționalitățile aplicației (responsabil de produs)
+* arhitectura produsului și mediul de lucru (responsabil de proiect)
+* produsul pe componente front-end / back-end / db (întreaga echipă)
+
+Prezentare: 10 min + Q&A
